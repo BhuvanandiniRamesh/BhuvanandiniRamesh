@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BhuvanandiniRamesh
 - 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently completing professional courses in Coursera
+- 🌱 I’m currently taking professional courses in Coursera (Google Data Analytics and IBM Data Scientist)
 - 💞️ I’m looking to collaborate on  Data Sciene Projects
 - 📫 How to reach me ... rbhuvanandini@gmail.com
 
